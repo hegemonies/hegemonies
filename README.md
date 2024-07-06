@@ -6,7 +6,7 @@ Kotlin Backend Developer
 
 I am passionate about kotlin, backend, microservices, hardware & coffee☕️ for more than 4 years.
 
-* 🌍  I'm based in Tbilisi, Georgia
+* 🌍  I'm based in Lisbon, Portugal
 * 🖥️  See my portfolio at [hegemonies.site](http://hegemonies.site)
 * ✉️  You can contact me at [dadanil2610@gmail.com](mailto:dadanil2610@gmail.com)
 * 🚀  I'm currently working on [PrequelApp](http://prequel.app)
